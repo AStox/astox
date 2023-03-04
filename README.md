@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Adam
+### Hi! 👋 I'm Adam
 
 <p> 
     <a href="https://discordapp.com/users/Stox#1911" target="_blank"><img alt="Discord"
