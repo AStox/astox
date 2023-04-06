@@ -3,8 +3,6 @@
 <p> 
     <a href="https://discordapp.com/users/Stox#1911" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://github.com/astox" target="_blank"><img alt="GitHub"
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://twitter.com/stoxophone" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
@@ -15,10 +13,10 @@
 - 👨‍💻 I also dabble in game development, graphics programming, and hardware development.
 - ➕ Currently focused on web3, but I have experience in web2 fullstack and teaching math & programming.
 - 🎓 I hold a bachelor's degree in engineering from [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
-- ❤️ Generally, I'm truly passionate about **Ethereum Smart Contracts, Generative Art, and Game Development**.
+- ❤️ I'm passionate about **Ethereum Smart Contracts, Generative Art, Game Development, and tinkering**.
 - 📫 How to reach me: [adamstox@protonmail.com](mailto:adamstox@protonmail.com).
 - 🏠 I call Toronto, Canada Home 🇨🇦 
-- 🌱 I'm currently learning smart contract security and openGL in tandem.
+- 🌱 I'm currently learning smart contract security, openGL, and modding my espresso maker.
 
 ### 🔎 Some stats
 
