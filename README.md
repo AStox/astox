@@ -16,7 +16,7 @@
 - ❤️ I'm passionate about **Ethereum Smart Contracts, Generative Art, Game Development, and tinkering**.
 - 📫 How to reach me: [adamstox@protonmail.com](mailto:adamstox@protonmail.com).
 - 🏠 I call Toronto, Canada Home 🇨🇦 
-- 🌱 I'm currently learning smart contract security, openGL, and modding my espresso maker.
+- 🌱 Current projects: Learning smart contract security, building an openGL erosion simulator, and modding my espresso maker.
 
 ### 🔎 Some stats
 
