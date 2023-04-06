@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Adam
+### Hello World 🌎 I'm Adam
 
 <p> 
     <a href="https://discordapp.com/users/Stox#1911" target="_blank"><img alt="Discord"
@@ -20,63 +20,45 @@
 - 🏠 I call Toronto, Canada Home 🇨🇦 
 - 🌱 I'm currently learning smart contract security and openGL in tandem.
 
-### 🎯 Skills
-
-#### ⌨️ Programming languages
-
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-    <a href="https://www.python.org" target="_blank"><img alt="Python"
-        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-</p>
-
-#### 🎛 Frameworks and runtime environments
-
-<p>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-    <a href="https://pytorch.org" target="_blank"><img alt="PyTorch"
-        src="https://img.shields.io/badge/React-EE4C2C?style=for-the-badge&logo=React&logoColor=white"/></a>
-</p>
-
-- [Hardhat](https://hardhat.org)
-
-#### 🗃 Package, dependency, and environment management
-
-<p>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-    <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
-        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
-</p>
-
-#### 🛠 Toolings, platforms, infrastructure providers, and libraries
-
-<p>
-    <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"
-        src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-    <a href="https://git-scm.com" target="_blank"><img alt="Git"
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://www.postman.com" target="_blank"><img alt="Postman"
-        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
-</p>
-
-- [ethers.js](https://docs.ethers.io)
-- [DappTools](https://github.com/dapphub/dapptools)
-- [Foundry](https://github.com/gakonst/foundry)
-- [web3.js](https://web3js.readthedocs.io)
-
-
 ### 🔎 Some stats
 
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=astox&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astox&layout=compact&langs_count=8&theme=tokyonight)
+
+#### ⌨️ Programming languages
+
+- [Solidity](https://docs.soliditylang.org)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org)
+- [Python](https://www.python.org)
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+
+#### 🎛 Frameworks and runtime environments
+
+- [Node.js](https://nodejs.org)
+- [React](https://reactjs.org)
+- [Hardhat](https://hardhat.org)
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+
+#### 🗃 Package, dependency, and environment management
+
+- [npm](https://www.npmjs.com)
+- [Yarn](https://yarnpkg.com)
+- [Pipenv](https://pipenv.pypa.io/en/latest/)
+
+#### 🛠 Toolings, platforms, infrastructure providers, and libraries
+
+- [AWS](https://aws.amazon.com)
+- [GCP](https://cloud.google.com)
+- [Git](https://git-scm.com)
+- [ethers.js](https://docs.ethers.io)
+- [Foundry](https://github.com/gakonst/foundry)
+- [DappTools](https://github.com/dapphub/dapptools)
+- [OpenZeppelin](https://www.openzeppelin.com/contracts)
+- [web3.js](https://web3js.readthedocs.io)
+- [GraphQL](https://graphql.org/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=astox.count_visitors)
 
