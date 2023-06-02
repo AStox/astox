@@ -58,6 +58,6 @@
 - [web3.js](https://web3js.readthedocs.io)
 - [GraphQL](https://graphql.org/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=astox.count_visitors)
+<img src="https://komarev.com/ghpvc/?username=astox&label=Views&color=0e75b6&style=flat" alt="visitors" />
 
 🤝 This README.md is based on [pcaversaccio's](https://github.com/pcaversaccio)
