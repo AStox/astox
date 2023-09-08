@@ -10,7 +10,7 @@
 ### About me
 
 - 🔧 Solidity development at [Centrifuge](https://centrifuge.io/).
-- - ❤️  **Smart Contracts, Generative Art, Game Development, and tinkering**.
+- ❤️  **Smart Contracts, Generative Art, Game Development, and tinkering**.
 - 🎓 I hold a bachelor's degree in engineering from [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
 - 🏠 Toronto 🇨🇦 
 
@@ -30,7 +30,7 @@
 - [Hardhat](https://hardhat.org)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 
-#### 🗃 Package, dependency, and environment management
+#### 🗃 Package, and environment management
 
 - [npm](https://www.npmjs.com)
 - [Yarn](https://yarnpkg.com)
@@ -40,6 +40,7 @@
 
 - [AWS](https://aws.amazon.com)
 - [GCP](https://cloud.google.com)
+- [Kubernetes](https://kubernetes.io/)
 - [Git](https://git-scm.com)
 - [ethers.js](https://docs.ethers.io)
 - [Foundry](https://github.com/gakonst/foundry)
@@ -49,5 +50,3 @@
 - [GraphQL](https://graphql.org/)
 
 <img src="https://komarev.com/ghpvc/?username=astox&label=Views&color=0e75b6&style=flat" alt="visitors" />
-
-🤝 This README.md is based on [pcaversaccio's](https://github.com/pcaversaccio)
