@@ -9,19 +9,10 @@
 
 ### About me
 
-- 🔧 I'm currently working for [Centrifuge](https://centrifuge.io/) as a solidity developer.
-- 👨‍💻 I also dabble in game development, graphics programming, and hardware development.
-- ➕ Currently focused on web3, but I have experience in web2 fullstack and teaching math & programming.
+- 🔧 Solidity development at [Centrifuge](https://centrifuge.io/).
+- - ❤️  **Smart Contracts, Generative Art, Game Development, and tinkering**.
 - 🎓 I hold a bachelor's degree in engineering from [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
-- ❤️ I'm passionate about **Ethereum Smart Contracts, Generative Art, Game Development, and tinkering**.
-- 🏠 I call Toronto, Canada Home 🇨🇦 
-- 🌱 Current projects: Learning smart contract security, building an openGL erosion simulator, and modding my espresso maker.
-
-### 🔎 Some stats
-
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=astox&count_private=true&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astox&layout=compact&langs_count=8&theme=tokyonight)
+- 🏠 Toronto 🇨🇦 
 
 #### ⌨️ Programming languages
 
