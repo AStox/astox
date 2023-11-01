@@ -9,7 +9,7 @@
 
 ### About me
 
-- 🔧 Solidity development at [Centrifuge](https://centrifuge.io/).
+- 🔧 Smart Contract developer at [Centrifuge](https://centrifuge.io/).
 - ❤️  **Smart Contracts, Generative Art, Game Development, and tinkering**.
 - 🎓 I hold a bachelor's degree in engineering from [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
 - 🏠 Toronto 🇨🇦 
@@ -30,11 +30,6 @@
 - [Hardhat](https://hardhat.org)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 
-#### 🗃 Package, and environment management
-
-- [npm](https://www.npmjs.com)
-- [Yarn](https://yarnpkg.com)
-- [Pipenv](https://pipenv.pypa.io/en/latest/)
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
