@@ -14,34 +14,32 @@
 - 🎓 I hold a bachelor's degree in engineering from [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
 - 🏠 Toronto 🇨🇦 
 
-#### ⌨️ Programming languages
+#### 🚗 Daily Drivers
 
 - [Solidity](https://docs.soliditylang.org)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org)
-- [Python](https://www.python.org)
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
-
-#### 🎛 Frameworks and runtime environments
-
 - [Node.js](https://nodejs.org)
 - [React](https://reactjs.org)
+- [Git](https://git-scm.com)
+- [Foundry](https://github.com/gakonst/foundry)
+- [OpenZeppelin](https://www.openzeppelin.com/contracts)
+- [GraphQL](https://graphql.org/)
+- [Multisigs](https://safe.global/)
+- [Ledger](https://www.ledger.com/)
+- [IPFS](https://ipfs.tech/)
+
+
+#### 🛠 All the rest
+- [Python](https://www.python.org)
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Slither](https://github.com/crytic/slither)
 - [Hardhat](https://hardhat.org)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-
-
-#### 🛠 Toolings, platforms, infrastructure providers, and libraries
-
 - [AWS](https://aws.amazon.com)
 - [GCP](https://cloud.google.com)
 - [Kubernetes](https://kubernetes.io/)
-- [Git](https://git-scm.com)
 - [ethers.js](https://docs.ethers.io)
-- [Foundry](https://github.com/gakonst/foundry)
 - [DappTools](https://github.com/dapphub/dapptools)
-- [OpenZeppelin](https://www.openzeppelin.com/contracts)
 - [web3.js](https://web3js.readthedocs.io)
-- [GraphQL](https://graphql.org/)
 
 <img src="https://komarev.com/ghpvc/?username=astox&label=Views&color=0e75b6&style=flat" alt="visitors" />
