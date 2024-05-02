@@ -17,22 +17,24 @@
 #### 🚗 Daily Drivers
 
 - [Solidity](https://docs.soliditylang.org)
-- [TypeScript](https://www.typescriptlang.org)
-- [Node.js](https://nodejs.org)
-- [React](https://reactjs.org)
-- [Git](https://git-scm.com)
 - [Foundry](https://github.com/gakonst/foundry)
 - [OpenZeppelin](https://www.openzeppelin.com/contracts)
 - [GraphQL](https://graphql.org/)
+- [TypeScript](https://www.typescriptlang.org)
+- [Node.js](https://nodejs.org)
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [Tenderly](https://tenderly.co/)
+- [Slither](https://github.com/crytic/slither)
 - [Multisigs](https://safe.global/)
 - [Ledger](https://www.ledger.com/)
 - [IPFS](https://ipfs.tech/)
+- [Git](https://git-scm.com)
 
 
 #### 🛠 All the rest
 - [Python](https://www.python.org)
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [Slither](https://github.com/crytic/slither)
 - [Hardhat](https://hardhat.org)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [AWS](https://aws.amazon.com)
