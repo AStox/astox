@@ -9,7 +9,7 @@
 
 ### About me
 
-- 🔧 Smart Contract developer at [Centrifuge](https://centrifuge.io/).
+- 🔧 Engineer at [Goldsky](https://goldsky.com/).
 - ❤️  **Smart Contracts, Generative Art, Game Development, and tinkering**.
 - 🎓 I hold a bachelor's degree in engineering from [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
 - 🏠 Toronto 🇨🇦 
